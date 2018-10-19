@@ -46,7 +46,61 @@ body {
 #listNew {
 	margin-right: 30px;
 	margin-left: 50px;
+	line-height: 1.5em;
+	padding-top: 0px;
 }
 
 #contentMain {
+	line-height: 2.5em;
+	padding-top: 10px;
+}
+.headerLogo {
+	float: left;
+	margin-top: 20px;
+	margin-left: 48px;
+}
+.headerCopy {
+	font-size: 11px;
+	float: left;
+	margin-top: 100px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+}
+.email {
+	float: left;
+	margin-top: 65px;
+	margin-left: 100px;
+}
+.contentMain {
+	margin-top: 55px;
+	margin-left: 13px;
+	line-height: 2.5em;
+}
+.date {
+	color: #EA5413;
+}
+#content #contentL #listNew p {
+	border-top-width: 1px;
+	border-top-style: dotted;
+	border-top-color: #000;
+	padding-top: 10px;
+}
+a {
+	color: #669933;
+	text-decoration: none;
+}
+a:hover {
+	color: #ED601B;
+	text-decoration: underline;
+}
+
+
+
+
+.subtitle {
+	font-size: 14px;
+	font-weight: bold;
+	color: #EF4E08;
+	margin-top: 0px;
 }
